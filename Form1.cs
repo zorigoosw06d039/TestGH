@@ -18,5 +18,7 @@ namespace TestGH
             InitializeComponent();
             
         }
+        void rea()
+        {}
     }
 }
